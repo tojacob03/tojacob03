@@ -18,12 +18,7 @@ build it AI-assisted (Lovable, Claude Code) and operate what I ship.
 ## GitHub activity
 
 <p align="center">
-  <img height="180"
-    src="https://github-stats-extended.vercel.app/api?username=tojacob03&show_icons=true&include_all_commits=true&show=reviews,discussions_answered&rank_icon=percentile&theme=transparent"
-    alt="Till's GitHub stats" />
-  <img height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=tojacob03&layout=compact&theme=transparent"
-    alt="Top languages" />
+  <img src="/github-metrics.svg" alt="Till's GitHub metrics" />
 </p>
 
 Reach me at [to_jacob@me.com](mailto:to_jacob@me.com) or on
