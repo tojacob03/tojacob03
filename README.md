@@ -1,9 +1,12 @@
 ### Hi, I'm Till/Rukawa.
 
 I'm a data analyst who builds the tools I analyze with. Since 2019 I've worked
-as an analyst and coach in competitive Clash Royale; today I build the
-opponent-analysis platform that backs deck picks for Tier-1 CRL players
-preparing for the 2026 World Finals.
+as an analyst and coach in competitive Clash Royale; in 2026 I prepared Morten
+and Viiper for every match of their CRL season, and they finished Top 4 and
+Top 8 at the World Finals.
+
+**2027:** I'm looking for an analyst role with a League of Legends or Brawl
+Stars team, and I've built the tools for both.
 
 **What I actually do:** design the data model and the analysis logic, then
 build it AI-assisted (Lovable, Claude Code) and operate what I ship.
@@ -12,6 +15,12 @@ build it AI-assisted (Lovable, Claude Code) and operate what I ship.
   pipeline numbers, case studies
 - 📄 [From Battle Log to Set Decision](https://rukawaanalytics.com/work/player-analysis-tooling) -
   how 1,000 recent battles become a deck-slot prediction
+- 🎯 [A Draft Board That Shows Its Working](https://rukawaanalytics.com/work/draft-room) -
+  Draft Room, Brawl Stars match prep: map draft, global bans, explained picks
+  and series odds
+- 🗂️ [One Page per Opponent, Facts Only](https://rukawaanalytics.com/work/scout-hq) -
+  Scout HQ, one-page League of Legends opponent reports from ranked and league
+  games
 - ⚡ Also live: a German electricity price dashboard and an F1 race-strategy
   tool, both on real public data
 
